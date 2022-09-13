@@ -1,0 +1,201 @@
+*{
+    margin: 0;
+    padding: 0;
+    transition: 0.5s;
+    text-decoration: none;
+    box-sizing: border-box;
+    color: white;
+    font-family: 'Trebuchet MS';
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+nav{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.5);
+    justify-content: space-between;
+}
+nav header{
+    width: 14%;
+    height: 100%;
+    margin-left: 2%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#nav-btns{
+    width: 20%;
+    height: 100%;
+    margin-right: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-btn{
+    width: 40%;
+    height: 53%;
+    border-radius: 7px;
+    display: flex;
+    border: 2px solid white;
+    align-items: center;
+    justify-content: center;
+}
+.nav-btn:hover{
+    border: none;
+    background-color: red;
+}
+.nav-btn a{
+    color: white;
+}
+#toggle-btn{
+    width: 30px;
+    height: 30px;
+    font-size: 25px;
+    color: red;
+    margin-right: 4%;
+    font-weight: bold;
+    border: none;
+    outline: none;
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.bars{
+    width: 90%;
+    height: 10%;
+    background: white;
+}
+
+#bar1{
+    animation-name: bar1;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+    position: relative;
+    animation-duration: 0.5s;
+}
+#bar2{
+    animation-name: bar2;
+    position: relative;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+    animation-duration: 0.5s;
+}
+#bar11{
+    animation-name: bar11;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+    position: relative;
+    animation-duration: 0.5s;
+    animation-direction: reverse;
+}
+#bar22{
+    animation-name: bar22;
+    position: relative;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+    animation-duration: 0.5s;
+    animation-direction: reverse;
+}
+#bar3{
+    display: none;
+}
+#bar33{
+    display: inline;
+}
+@keyframes bar1{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        top:5.5px;
+        transform: rotate(-47deg);
+    }
+}
+@keyframes bar2{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        bottom:5.5px;
+        transform: rotate(47deg);
+    }
+}
+@keyframes bar11{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        top:5.5px;
+        transform: rotate(-47deg);
+    }
+}
+@keyframes bar22{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        bottom:5.5px;
+        transform: rotate(47deg);
+    }
+}
+main{
+    width: 100%;
+    height: 86%;
+}
+#slide-main-con{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.5);
+}
+.text-descript {
+    width: 70%;
+    height: 80%;
+    display: flex;
+    margin-top: 5%;
+    flex-direction: column;
+}
+.text-descript h1{
+    font-size: 45px;
+} 
+.text-descript p{
+    margin-top: 5%;
+    line-height: 25px;
+    width: 75%;
+}
+#dots-con{
+    width: 10%;
+    height: 3%;
+    margin-top: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.dots{
+    width: 25%;
+    height: 45%;
+    border-radius: 7px;
+    background-color: gray;
+}
+
+footer{
+    width: 100%;
+    height: 4%;
+    display: flex;
+    font-size: 14px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+

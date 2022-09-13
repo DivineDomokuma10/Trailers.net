@@ -1,0 +1,639 @@
+[
+    {
+        "name":"Zombies",
+        "genre":"adventure,horror,music",
+        "cover":"../asset/covers/zombies.jpg",
+        "year": 2018,
+        "video":"../asset/trailers/Zombies_3.mp4"       
+    },
+    {
+        "name":"Incredibles 2",
+        "genre":"adventure,action,family",
+        "cover":"../asset/covers/Incredibles2.jpg",
+        "year": 2018,
+        "video":"../asset/trailers/Incredibles_2.mp4"
+    },
+    {
+        "name":"Freaky Friday(2018)",
+        "genre":"music,fantasy,comedy,family",
+        "cover":"../asset/covers/freaky_friday.jpg",
+        "year": 2018,
+        "video":"../asset/trailers/Freaky_Friday.mp4"
+    },
+    {
+        "name":"Ralph breaks the internet",
+        "genre":"adventure,comedy,family",
+        "cover":"../asset/covers/ralph_breaks_internet.jpg",
+        "year": 2018,
+        "video":"../asset/trailers/Ralph_Breaks_the_Internet.mp4"
+    },
+    {
+        "name":"Aquaman",
+        "genre": "action, fantacy, scifi",
+        "cover":"../asset/covers/Aquaman.jpg",
+        "year": 2018,
+        "video": "../asset/trailers/Aquama.mp4"
+    },
+    {
+        "name":"Teen Titans Go",
+        "genre": "action, fantacy, scifi",
+        "cover":"../asset/covers/Teen_titans_go.jpg",
+        "year": 2018,
+        "video":"../asset/trailers/TEEN_TITANS_GO.mp4"
+    },
+    {
+        "name":"Scooby-Doo and Batman: The Brave and the Bold",
+        "genre": "action, fantacy, scifi",
+        "cover":"../asset/covers/Scooby-Doo_and_batman.jpg",
+        "year": 2018,
+        "video":"../asset/trailers/Scooby-Doo_Batman__The_Brave_and_the_Bold.mp4"
+    },
+    {
+        "name":"Batman: Gotham by Gaslight",
+        "genre": "action, fantacy, scifi",
+        "cover":"../asset/covers/Batman_gotham_by_gaslight.jpg",
+        "year": 2018,
+        "video":"../asset/trailers/BATMAN__GOTHAM_BY_GASLIGHT.mp4"
+    },
+    {
+        "name":"Suicide Squad: Hell to Pay",
+        "genre": "action, fantacy, scifi",
+        "cover":"../asset/covers/Suicide_squad_hell_to_pay.jpg",
+        "year": 2018,
+        "video":"../asset/trailers/SUICIDE_SQUAD__HELL_TO_PAY.mp4"
+    },
+    {
+        "name":"Batman Ninja",
+        "genre": "action, fantacy, scifi",
+        "cover":"../asset/covers/Batman_ninja.jpg",
+        "year": 2018,
+        "video":"../asset/trailers/Batman_Ninja.mp4"
+    },
+    {
+        "name":"Avengers: Infinity War",
+        "genre":"adventure,action,scifi",
+        "cover":"../asset/covers/avengers_infinityWar.jpg",
+        "year": 2018,
+        "video":"../asset/trailers/Avengers_infinityWar.mp4"
+    },
+    {
+        "name":"solo: a star wars story",
+        "genre":"adventure,action,scifi",
+        "cover":"../asset/covers/Solo_starwars_story.jpg",
+        "year": 2018,
+        "video":"../asset/trailers/Solo__A_Star_Wars_Story.mp4"
+    },
+    {
+        "name":"Antman and the Wasp",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/antman_and_wasp.jpg",
+        "year": 2018,
+        "video":"../asset/trailers/Ant-Man_and_The_Wasp.mp4"
+    },
+    {
+        "name":"The Death of Superman",
+        "genre": "action, fantacy, scifi",
+        "cover":"../asset/covers/The_death_of_superman.jpg",
+        "year": 2018,
+        "video":"../asset/trailers/THE_DEATH_OF_SUPERMAN.mp4"
+    },
+    {
+        "name":"Dc Super Hero Girls: Legends of Atlantis",
+        "genre": "action, fantacy, scifi",
+        "cover":"../asset/covers/Dc_super_hero_girls_legends_of_atlantis.jpg",
+        "year": 2018,
+        "video":"../asset/trailers/DC_Super_Hero_Girls__Legends_of_Atlantis.mp4"
+    },
+    {
+        "name":"Nutcracker and the four realms",
+        "genre": "adventure,fantasy,family",
+        "cover":"../asset/covers/nutcraker.jpg",
+        "year": 2018,
+        "video":"../asset/trailers/The_Nutcracker_and_the_Four_Realms.mp4"
+    },
+    {
+        "name":"Black panther",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/Black_panther1.jpg",
+        "year": 2018,
+        "video":"../asset/trailers/Black_Panther.mp4"
+    },
+    {
+        "name": "Aladdin",
+        "genre": "adventure,romance,fantasy,family",
+        "cover":"../asset/covers/Aladdin.jpg",
+        "year": 2019,
+        "video":"../asset/trailers/ALADDIN.mp4"
+    },
+    {
+        "name":"Batman Hush",
+        "genre": "action, fantacy, scifi",
+        "cover":"../asset/covers/Batman_Hush.jpeg",
+        "year": 2019,
+        "video":"../asset/trailers/BATMAN__HUSH.mp4"
+    },
+    {
+        "name":"Shazam",
+        "genre": "action, fantacy, scifi",
+        "cover":"../asset/covers/Shazam.jpg",
+        "year": 2019,
+        "video":"../asset/trailers/SHAZAM.mp4"
+    },
+    {
+        "name":"Batman vs Teenage Mutant Ninja Turtles",
+        "genre": "action, fantacy, scifi",
+        "cover":"../asset/covers/Batman_vs_teenage_mutant_ninja_turtles.jpg",
+        "year": 2019,
+        "video":"../asset/trailers/BATMAN_VS_TMNT.mp4"
+    },
+    {
+        "name":"Joker",
+        "genre": "action, fantacy, scifi",
+        "cover":"../asset/covers/Joker(2019).jpg",
+        "year": 2019,
+        "video":"../asset/trailers/JOKER.mp4"
+    },
+    {
+        "name": "Frozen 2",
+        "genre": "adventure,fantasy,family",
+        "cover": "../asset/covers/Frozen2.jpg",
+        "year": 2019,
+        "video":"../asset/trailers/Frozen_2.mp4"    
+    },
+    {
+        "name": "Dumbo",
+        "genre": "adventure,family",
+        "cover":"../asset/covers/Dumbo.jpg",
+        "year": 2019,
+        "video":"../asset/trailers/Dumbo.mp4"
+    },
+    {
+        "name": "Toy Story 4",
+        "genre": "adventure,fantasy,family,animation",
+        "cover":"../asset/covers/Toy_story4.webp",
+        "year": 2019,
+        "video":"../asset/trailers/Toy_Story_4.mp4"
+    },
+    {
+        "name":"Descendants 3",
+        "genre": "Action,Adventure,Animated",
+        "cover": "../asset/covers/Descendants3.webp",
+        "year": 2019,
+        "video":"../asset/trailers/Descendants_3.mp4"
+    },
+    {
+        "name":"The Lion King",
+        "genre": "Family,  Drama",
+        "cover": "../asset/covers/Lion_King.jpg",
+        "year": 2019,
+        "video":"../asset/trailers/The_Lion_KIng.mp4"
+    },
+    {
+        "name":"Spiderman: Far From Home",
+        "cover":"../asset/covers/spiderman_far_from_home.jpg",
+        "genre":"action, comedy, scifi, teen",
+        "video":"../asset/trailers/SPIDER-MAN__FAR_FROM_HOME.mp4",
+        "year":"2019"
+    },
+    {
+        "name":"Captain Marvel",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/captainMarvel.jpg",
+        "year": 2019,
+        "video":"../asset/trailers/Captain_Marvel.mp4"
+    },
+    {
+        "name":"Penguins",
+        "genre": "Documentary, Family",
+        "cover":"../asset/covers/Penguins.jpg",
+        "year": 2019,
+        "video":"../asset/trailers/Penguins.mp4"
+    },
+    {
+        "name":"Avengers: Endgame",
+        "genre": "adventure,action,scifi",
+        "cover": "../asset/covers/Avengers_endgame.jpg",
+        "year": 2019,
+        "video":"../asset/trailers/Avengers_endgame.mp4"
+    },
+    {
+        "name":"Maleficent: Mistress of Evil",
+        "genre": "Family, Fantasy, Adventure",
+        "cover":"../asset/covers/Maleficent.jpg",
+        "year": 2019,
+        "video":"../asset/trailers/Maleficent__Mistress_of_Evil.mp4"
+    },
+    {
+        "name":"Lady and the Tramp",
+        "genre": "Family, Romance, Comedy",
+        "cover":"../asset/covers/lady_andthe_tramp.webp",
+        "year": 2019,
+        "video":"../asset/trailers/Lady_and_the_Tramp.mp4"
+    },
+    {
+        "name":"Reign of Supermen",
+        "genre": "action, fantacy, scifi",
+        "cover":"../asset/covers/Reign_of_supermen.jpg",
+        "year": 2019,
+        "video":"../asset/trailers/REIGN_OF_THE_SUPERMEN.mp4"
+    },
+    {
+        "name":"Justice League vs Fatal Five",
+        "genre": "action, fantacy, scifi",
+        "cover":"../asset/covers/Justice_League_vs_the_Fatal_Five.jpg",
+        "year": 2019,
+        "video":"../asset/trailers/JUSTICE_LEAGUE_VS._THE_FATAL_FIVE.mp4"
+    },
+    {
+        "name":"Wonder Woman Bloodline",
+        "genre": "action, fantacy, scifi",
+        "cover":"../asset/covers/Wonder _woman_bloodline.jpg",
+        "year": 2019,
+        "video":"../asset/trailers/Wonder_Woman__Bloodlines.mp4"
+    },
+    {
+        "name":"Noelle",
+        "genre": "Family, Comedy, Fantasy",
+        "cover":"../asset/covers/Noelle.jpg",
+        "year": 2019,
+        "video":"../asset/trailers/Noelle.mp4"
+    },
+    {
+        "name":"Star Wars: The Rise of Skywalker",
+        "genre": "Adventure, Action, SciFi",
+        "cover":"../asset/covers/starWars_rise_of_skyWalker.jpg",
+        "year": 2019,
+        "video":"../asset/trailers/Star_Wars__The_Rise_of_Skywalker.mp4"
+    },
+    {
+        "name":"The One and Only Ivan",
+        "genre": " Family, Comedy, Drama",
+        "cover":"../asset/covers/The_One_and_Only_Ivan.webp",
+        "year": 2020,
+        "video":"../asset/trailers/THE_ONE_AND_ONLY_IVAN.mp4"
+    },
+    {
+        "name":"Jungle Cruise",
+        "genre": "adventure,action,scifi",
+        "cover": "../asset/covers/Jungle_cruise.jpg",
+        "year": 2020,
+        "video":"../asset/trailers/Jungle_Cruise.mp4"
+    },
+    {
+        "name":"Justice League Dark: Apokolips War",
+        "genre": "action, fantacy, scifi",
+        "cover":"../asset/covers/Justice_League_Dark_Apokolips_War.webp",
+        "year": 2020,
+        "video":"../asset/trailers/JUSTICE_LEAGUE_DARK__Apokolips_War.mp4"
+    },
+    {
+        "name":"Birds of Prey",
+        "genre": "action, fantacy, scifi",
+        "cover":"../asset/covers/Birds_of_prey.jpg",
+        "year": 2020,
+        "video": "../asset/trailers/BIRDS_OF_PREY.mp4"
+    },
+    {
+        "name":"superman: Man of Tomorrow",
+        "genre": "action, fantacy, scifi",
+        "cover":"../asset/covers/superman-man-of-tomorrow.jpg",
+        "year": 2020,
+        "video":"../asset/trailers/Superman__Man_of_Tomorrow.mp4"
+    },
+    {
+        "name":"Wonder Woman (1984)",
+        "genre": "action, fantacy, scifi",
+        "cover":"../asset/covers/wonder_woman_1984.jpg",
+        "year": 2020,
+        "video":"../asset/trailers/Wonder_Woman_1984.mp4"
+    },
+    {
+        "name":"Onward",
+        "genre": "Family,  Adventure, Comedy, Fantasy",
+        "cover":"../asset/covers/onward.webp",
+        "year": 2020,
+        "video":"../asset/trailers/Onward.mp4"
+    },
+    {
+        "name":"Stargirl",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/StarGirl.jpg",
+        "year": 2020,
+        "video":"../asset/trailers/STARGIRL.mp4"
+    },
+    {
+        "name":"Black is King",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/Black_is_King.jpg",
+        "year": 2020,
+        "video":"../asset/trailers/BLACK-IS_KING.mp4"
+    },
+    {
+        "name":"Artemis Fowl",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/Artemis_Fowl.jpg",
+        "year": 2020,
+        "video":"../asset/trailers/Artemis_Fowl.mp4"
+    },
+    {
+        "name":"Mulan",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/Mulan.jpg",
+        "year": 2020,
+        "video":"../asset/trailers/Mulan.mp4"
+    },
+    {
+        "name":"Gigantic",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/Gigantic.jpg",
+        "year": 2020,
+        "video":"../asset/trailers/Gigantic.mp4"
+    },
+    {
+        "name":"Safety",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/Safety.jpg",
+        "year": 2020,
+        "video": "../asset/trailers/SAFETY.mp4"
+    },
+    {
+        "name":"Dolphin Reef",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/Dolphin_Reef.jpg",
+        "year": 2020,
+        "video":"../asset/trailers/Dolphin_Reef.mp4"
+    },
+    {
+        "name":"Elephant",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/Elephant.jpg",
+        "year": 2020,
+        "video":"../asset/trailers/Elephant.mp4"
+    },
+    {
+        "name":"Hamilton",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/Hamilton.jpg",
+        "year": 2020,
+        "video":"../asset/trailers/HAMILTON.mp4"
+    },
+    {
+        "name":"magic Camp",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/Magic_camp.jpg",
+        "year": 2020,
+        "video":"../asset/trailers/MAGIC_CAMP.mp4"
+    },
+    {
+        "name":"Soul",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/Soul.jpg",
+        "year": 2020,
+        "video":"../asset/trailers/Soul.mp4"
+    },
+    {
+        "name":"Luca",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/Luca.jpg",
+        "year": 2021,
+        "video":"../asset/trailers/LUCA.mp4"
+    },
+    {
+        "name":"Batman: Soul of the Dragon",
+        "genre": "action, fantacy, scifi",
+        "cover":"../asset/covers/Batman_soul_of_the_dragon.jpg",
+        "year": 2021,
+        "video":"../asset/trailers/BATMAN__SOUL_OF_THE_DRAGON.mp4"
+    },
+    {
+        "name":"Justice Society: World War II",
+        "genre": "action, fantacy, scifi",
+        "cover":"../asset/covers/Justice_society_world_war_II.jpg",
+        "year": 2021,
+        "video":"../asset/trailers/JUSTICE_SOCIETY__WORLD_WAR_II.mp4"
+    },
+    {
+        "name":"Batman: The Long halloween 1",
+        "genre": "action, fantacy, scifi",
+        "cover":"../asset/covers/Batman_the_long_halloween_1.jpg",
+        "year": 2021,
+        "video":"../asset/trailers/Batman__The_Long_Halloween_1.mp4"
+    },
+    {
+        "name":"Batman: The Long halloween 2",
+        "genre": "action, fantacy, scifi",
+        "cover":"../asset/covers/Batman_the_long_halloween_2.jpg",
+        "year": 2021,
+        "video":"../asset/trailers/Batman__The_Long_Halloween_2.mp4"
+    },
+    {
+        "name":"Raya and the Last Dragon",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/Raya_andthe_last_dragon.jpg",
+        "year": 2021,
+        "video":"../asset/trailers/Raya_and_the_Last_Dragon.mp4"
+    },
+    {
+        "name":"Cruella",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/Cruella.jpg",
+        "year": 2021,
+        "video":"../asset/trailers/Cruella.mp4"
+    },
+    {
+        "name":"The Bad Guys",
+        "cover":"../asset/covers/bad_guys.jpg",
+        "genre":"adventure,family",
+        "video":"../asset/trailers/THE_BAD_GUY.mp4",
+        "year":"2019"
+    },
+    {
+        "name":"The Last Warrior: Root of Evil",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/LastWarrior_root_of_evil.jpg",
+        "year": 2021,
+        "video":"../asset/trailers/The_Last_Warrior__Root_of_Evil.mp4"
+    },
+    {
+        "name":"The Last Warrior: A Messenger of Darkness",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/LastWarrior_messenger_of_darkness.webp",
+        "year": 2021,
+        "video":"../asset/trailers/the_last_warrior_messenager_of_darknes.mp4"
+    },
+    {
+        "name":"Injustice",
+        "genre":"action, fantacy, scifi",
+        "cover":"../asset/covers/Injustice(2021).jpg",
+        "year":2021,
+        "video":"../asset/trailers/Incredibles_2.mp4"
+    },
+    {
+        "name":"The Suicide Squad",
+        "genre": "action, fantacy, scifi",
+        "cover":"../asset/covers/The_suicide_squad.jpg",
+        "year": 2021,
+        "video":"../asset/trailers/SUICIDE_SQUAD_2_2020.mp4"
+    },
+    {
+        "name":"Catwoman: Hunted",
+        "genre":"action, fantacy, scifi",
+        "cover":"../asset/covers/Catwoman_hunted.jpg",
+        "year":2021,
+        "video":"../asset/trailers/CATWOMAN__Hunted.mp4"
+    },
+    {
+        "name":"Flora & Ulysses",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/Flora_and_Ulysses.webp",
+        "year": 2021,
+        "video":"../asset/trailers/FLORA_AND_ULYSSES.mp4"
+    },
+    {
+        "name":"Black Widow",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/Black_Widow.jpg",
+        "year": 2021,
+        "video":"../asset/trailers/Black_Widow.mp4"
+    },
+    {
+        "name":"Shang-Chi and the Legend of the Ten Rings",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/shangchi.jpg",
+        "year": 2021,
+        "video":"../asset/trailers/Shang-Chi_and_the_Legend_of_the_Ten_Rings.mp4"
+    },
+    {
+        "name":"Eternals",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/eternals.jpg",
+        "year": 2021,
+        "video":"../asset/trailers/Eternals.mp4"
+    },
+    {
+        "name":"Encanto",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/Encanto.jpeg",
+        "year": 2021,
+        "video":"../asset/trailers/ENCANTO_2021.mp4"
+    },
+    {
+        "name":"Diary of a Wimpy Kid",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/Diary_of_a_Wimpy_Kid.jpg",
+        "year": 2021,
+        "video":"../asset/trailers/Diary_of_a_Wimpy_Kid.mp4"
+    },
+    {
+        "name":"Turning Red",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/turning_red.jpg",
+        "year": 2022,
+        "video":"../asset/trailers/Turning_Red.mp4"
+    },
+    {
+        "name":"Pinocchio",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/Pinocchio.png",
+        "year": 2022,
+        "video":"../asset/trailers/Pinocchio.mp4"
+    },
+    {
+        "name":"Disenchanted",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/Disenchanted.webp",
+        "year": 2022,
+        "video":"../asset/trailers/DISENCHANTED.mp4"
+    },
+    {
+        "name":"Hocus Pocus 2",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/Hocus_Pocus2.webp",
+        "year": 2022,
+        "video":"../asset/trailers/Hocus_Pocus_2_Disney.mp4"
+    },
+    {
+        "name":"The Batman",
+        "genre": "action, fantacy, scifi",
+        "cover":"../asset/covers/The_batman(2022).jpg",
+        "year": 2022,
+        "video":"../asset/trailers/THE_BATMAN(2022).mp4"
+    },
+    {
+        "name":"Black Adam",
+        "genre": "action, fantacy, scifi",
+        "cover":"../asset/covers/blackAdams.jpg",
+        "year": 2022,
+        "video":"../asset/trailers/BLACK_ADAMS_2022.mp4"
+    },
+    {
+        "name":"Batman and Superman: Battle of the Super Sons",
+        "genre":"action, fantacy, scifi",
+        "cover":"../asset/covers/Batman_and_superman_battle_of_the_uper_sons.jpg",
+        "year":2022,
+        "video":"../asset/trailers/"
+    },
+    {
+        "name":"Rise",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/Rise.webp",
+        "year": 2022,
+        "video":"../asset/trailers/RISE.mp4"
+    },
+    {
+        "name":"Lightyear",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/Light_year.webp",
+        "year": 2022,
+        "video":"../asset/trailers/Lightyear.mp4"
+    },
+    {
+        "name":"The Ice Age: Adventures of Buck Wild",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/ice_age_adventure_of_buck_wild.webp",
+        "year": 2022,
+        "video":"../asset/trailers/The_Ice_Age_Adventure_of_Buck_Wild.mp4"
+    },
+    {
+        "name":"Cheaper by the Dozen",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/cheaper_by_the_dozen.jpg",
+        "year": 2022,
+        "video":"../asset/trailers/CHEAPER_BY_THE_DOZEN.mp4"
+    },
+    {
+        "name":"Better Nate Than Never",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/Better_nate_than_ever.jpg",
+        "year": 2022,
+        "video":"../asset/trailers/BETTER_NATE_THAN_EVER.mp4"
+    },
+    {
+        "name":"Thor: Love and Thunder",
+        "genre": "Action, Adventure, Fantasy, Comedy",
+        "cover":"../asset/covers/thorLovThunder.jpg",
+        "year": 2022,
+        "video":"../asset/trailers/Thor_Love_and_Thunder.mp4"
+    },
+    {
+        "name":"Black Panther: Wakanda Forever",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/wakanda_forever.jpg",
+        "year": 2022,
+        "video":"../asset/trailers/Black_Panther__Wakanda_Forever.mp4"
+    },
+    {
+        "name":"Strange World",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/strangeWorld.webp",
+        "year": 2022,
+        "video":"../asset/trailers/Strange_World.mp4"
+    },
+    {
+        "name":"The flash(2022)",
+        "genre": "adventure,action,scifi",
+        "cover":"../asset/covers/the_flash.jpg",
+        "year": 2021,
+        "video":"../asset/trailers/THE_FLASH.mp4"
+    }
+]

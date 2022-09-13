@@ -1,0 +1,206 @@
+@media(max-width: 420px){
+    body{
+        height: 3000vh;
+    }
+    body::-webkit-scrollbar-thumb{
+        background-color: transparent;
+    }
+    .first-view-main{
+        width: 100%;
+        height: 100vh;  
+    }
+    .slide-nav{
+        top: 0%;
+        width: 100%;
+        height: 20%;
+        display: flex;
+        position: fixed;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+    .slide-nav .profile{
+        display: flex;
+        width: 100%;
+        height: 30%;
+        margin: 0;
+        align-items: center;
+        justify-content: space-between;
+        /* background-color: red; */
+    }
+    .slide-cancel{
+        width: 5%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: 10px;
+        height: 100%;
+        font-size: 40px;
+        color: red;
+        cursor: pointer;
+    }
+    .slide-nav .profile p{
+        margin: 0;
+    }
+    .slide-nav form{
+        width: 80%;
+        height: 30%;
+        display: flex;
+        margin:0 0 10px 0;
+    }
+    nav{
+        height: 10%;
+        justify-content: space-between;
+        /* background-color: green; */
+    }
+    nav header{
+        width: 40%;
+        margin-left: 2%;
+        /* background-color: green; */
+    }
+    nav header h1{
+        font-size: 20px;
+    }
+    nav header img{
+        width: 40px;
+    }
+    form{
+       display: none;
+    }
+    .profile{
+       display: none;
+    }
+    #toggle-btn{
+        width: 30px;
+        height: 30px;
+        font-size: 25px;
+        color: red;
+        margin-right: 4%;
+        font-weight: bold;
+        border: none;
+        outline: none;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .bars{
+        width: 90%;
+        height: 10%;
+        background: white;
+    }
+    .text-div{
+        width: 100%;
+        height: 60%;
+        margin: 20% 0 0 0;
+    }
+    .text-div h1{
+        text-align: center;
+        font-size: 30px;
+    }
+    .text-div > p{
+        width: 100%;
+        margin-top: 6%;
+        text-align: center;
+        line-height: 30px;
+    }
+    .others{
+        margin-top: 10% auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .others p{
+        width: 55%;
+        display: flex;
+        margin-top: 5%;
+    }
+    .folo-up-img{
+        display: none;
+    }
+    #video{
+        width: 100%;
+        height: 2900vh;
+        padding: 2%;
+    }
+    .container{
+        width: 100%;
+        height: 1%;
+        display: flex;
+       align-items: center;
+    }
+    .container img{
+        width: 60%;
+        height: 100%;
+    }
+    .video-info{
+        width: 40%;
+        height: 23%;
+        display: flex;
+        text-align: center;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .video-info p{
+        display: none;
+    }
+    footer{
+        width: 100%;
+        height: 50vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        background-color: rgba(0, 0, 0, 0.95);
+    }
+    #div1{
+        width: 100%;
+        height: 40%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    #div1 header{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    #line{
+        display: none;
+    }
+    #div2{
+        width: 100%;
+        height: 65%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .icons{
+        width: 35%;
+        height: 20%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        /* background: red; */
+    }
+    hr{
+        display: block;
+    }
+    .icon-con{
+        width: 27px;
+        height: 27px;
+    }
+    .icon-con img{
+        width: 100%;
+        height: 100%;
+    }
+    .links{
+        width: 70%;
+    }
+}

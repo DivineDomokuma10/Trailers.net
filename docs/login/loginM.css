@@ -1,0 +1,29 @@
+@import url(../signUp/signupM.css);
+@media (orientation: portrait) {
+    form{
+        width: 100%;
+        height: 70%;
+        box-shadow: none;
+    }
+    label{
+        width: 90%;
+        height: 15%;
+        margin-top: 7%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        border-radius: 7px;
+        background-color: transparent;
+        border: 4px solid rgb(255, 255, 255);
+    }
+    label input{
+        height: 100%;
+        width: 100%;
+        padding-left: 3%;
+        border-radius: 7px;
+    }
+    form p{
+        font-size: 12px;
+        margin-top: 3%;
+    }
+}

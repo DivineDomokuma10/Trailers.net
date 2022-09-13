@@ -1,0 +1,68 @@
+@import url(../signUp/signUp.css);
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: 0.3s;
+    font-family: 'Trebuchet MS';
+    text-decoration: none   ;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: none;
+    background-color: rgba(0, 0, 0, 0.85);
+}
+form{
+    width: 40%;
+    height: 75%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(172, 167, 167);
+    border-radius: 7px;
+    border-top: 10px solid black;
+    box-shadow: 0px 2px 3px 1px rgba(0, 0, 0, 0.8);
+}
+form p{
+
+    margin-top: 3%;
+}
+label{
+    width: 80%;
+    height: 10%;
+    margin-top: 7%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 7px;
+    background-color: white;
+    /* border: 3px solid rgba(15, 193, 36, 0.522); */
+}
+label input{
+    height: 75%;
+    width: 88%;
+    padding-left: 3%;
+    border: none;
+    outline: none;
+    background: none;
+}
+#shw-hide{
+    width: 12%;
+    height: 95%;
+    border-radius: 50%;
+    border: none;
+    outline: none;
+    background: none;
+}
+#shw-hide:hover{
+    color: gray;
+    font-weight: bold;
+    font-size: 15px;
+}
+form div{
+    margin-top: 5%;
+}

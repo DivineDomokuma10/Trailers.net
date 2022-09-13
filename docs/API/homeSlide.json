@@ -1,0 +1,23 @@
+[
+    {
+        "name": "BLACK ADAM ",
+        "text": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods-and imprisoned just as quickly-Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+        "bg": "../asset/sliders/blackAdamslide.jpg",
+        "genre": "Action, Adventure, Fantasy,",
+        "releaseDate": "21 October 2022"
+    },
+    {
+        "name": "Black Panther: Wakanda Forever",
+        "text": "On Halloween, Gotham City mayor Don Mitchell Jr. is murdered by a serial calling himself the Riddler. Billionaire Bruce Wayne, who has opereleaseDate for two years as the vigilante Batman, investigates alongside the Gotham City Police Department (GCPD).",
+        "bg": "../asset/sliders/wakandaForeverSlide.jpg",
+        "genre": "Action, Adventure, Drama",
+        "releaseDate": "Mar 4, 2022"
+    },
+    {
+        "name": "THOR: LOVE AND THUNDER ",
+        "text": "After the events of Avengers Endgame, Thor now sets off on a personal journey of discovering who he is through inner peace. But now Thor is called back into action once more when he takes on a deadly new adversary named Gorr the God Butcher, who seeks the extedtionPG-13 of all the gods.",
+        "bg": "../asset/sliders/thorLovThunderSlide.jpg",
+        "genre": "Action, Adventure, Comedy",
+        "releaseDate": "June 23, 2022"
+    }
+]

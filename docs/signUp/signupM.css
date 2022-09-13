@@ -1,0 +1,47 @@
+@media (orientation: portrait) {
+    *{
+        color: white;
+    }
+    form{
+        width: 100%;
+        height: 100%;
+        border: none;
+        background-color: transparent;
+    }
+    h1{
+        font-size: 40px;
+        margin-top: 3%;
+        color: white;
+        text-transform: uppercase;
+    }
+    form p{
+        margin-top: 6px;
+    }
+    .inpts{
+        width: 82%;
+        height: 7%;
+        margin-top: 3%;
+        padding-left: 3%;
+        outline: none;
+        border-radius: 6px;
+        background-color: transparent;
+        border: 3px solid rgb(255, 255, 250);
+        color: white;
+    }
+    .inpts::placeholder{
+        color: aliceblue;
+    }
+    option{
+        color: black;
+    }
+    .submit-btn{
+        width: 80%;
+        height: 6.5%;
+        border: none;
+        color: white;
+        margin-top: 3%;
+        font-size: 17px;
+        border-radius: 6px;
+        background-color: rgb(129, 124, 124);
+    }
+}
